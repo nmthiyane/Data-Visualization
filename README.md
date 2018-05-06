@@ -4,3 +4,5 @@ This is project was inspired by an article on FreeCodeCamp (https://medium.freec
 
 
 Please note that this is still currently a WIP, this project will be developed during my sparetime as a way of self improvement. 
+
+The up-to-date version of this project can be found on the development branch, a feature that is currently under development can be found on a feature branch which is named after the feature being developed. 
